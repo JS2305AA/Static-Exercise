@@ -1,0 +1,5 @@
+C:\Users\npjt2\repos\Static-Exercise\StaticExercise\obj\Debug\net6.0\StaticExercise.csproj.AssemblyReference.cache
+C:\Users\npjt2\repos\Static-Exercise\StaticExercise\obj\Debug\net6.0\StaticExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\npjt2\repos\Static-Exercise\StaticExercise\obj\Debug\net6.0\StaticExercise.AssemblyInfoInputs.cache
+C:\Users\npjt2\repos\Static-Exercise\StaticExercise\obj\Debug\net6.0\StaticExercise.AssemblyInfo.cs
+C:\Users\npjt2\repos\Static-Exercise\StaticExercise\obj\Debug\net6.0\StaticExercise.csproj.CoreCompileInputs.cache
